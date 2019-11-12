@@ -1,0 +1,1 @@
+android.hardware.camera2android.hardware.camera2android.hardware.camera2re.camera2.CameraDevice
